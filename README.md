@@ -5,6 +5,8 @@ Storybook is here:
 - Production: <https://ucsb-cs156-w22.github.io/jpa03-oliviagillam-docs/storybook>
 - QA: <https://ucsb-cs156-w22.github.io/jpa03-oliviagillam-docs-qa/storybook>
 
+[![codecov](https://codecov.io/gh/ucsb-cs156-w22/jpa03-oliviagillam/branch/main/graph/badge.svg?token=RYgt2PjzEC)](https://codecov.io/gh/ucsb-cs156-w22/jpa03-oliviagillam)
+
 The GitHub actions script to deploy the Storybook to QA requires some configuration; see [docs/github-actions.md](docs/github-actions.md) for details.
 
 If these repos are not yet setup, see the setup steps in [`docs/storybook.md`](docs/storybook.md).
