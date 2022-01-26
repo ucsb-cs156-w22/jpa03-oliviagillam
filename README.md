@@ -1,9 +1,17 @@
+# important links? Not sure where I'm expected to add them
+- link to repo: https://github.com/ucsb-cs156-w22/jpa03-oliviagillam/
+- Heroku app: https://jpa03-oliviagillam.herokuapp.com/
+- Storybook
+  - Production: <https://ucsb-cs156-w22.github.io/jpa03-oliviagillam-docs/storybook
+  - QA: <https://ucsb-cs156-w22.github.io/jpa03-oliviagillam-docs-qa/storybook
+- 
+
 # demo-spring-react-example: dsre
 
 Storybook is here:
 
-- Production: <https://ucsb-cs156-w22.github.io/jpa03-oliviagillam-docs/storybook>
-- QA: <https://ucsb-cs156-w22.github.io/jpa03-oliviagillam-docs-qa/storybook>
+- Production: <https://ucsb-cs156-w22.github.io/jpa03-oliviagillam-docs/storybook
+- QA: <https://ucsb-cs156-w22.github.io/jpa03-oliviagillam-docs-qa/storybook
 
 [![codecov](https://codecov.io/gh/ucsb-cs156-w22/jpa03-oliviagillam/branch/main/graph/badge.svg?token=RYgt2PjzEC)](https://codecov.io/gh/ucsb-cs156-w22/jpa03-oliviagillam)
 
